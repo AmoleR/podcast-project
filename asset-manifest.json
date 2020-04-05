@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/podcast-project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/podcast-project/static/js/main.70f11df1.chunk.js",
+    "main.js.map": "/podcast-project/static/js/main.70f11df1.chunk.js.map",
+    "runtime-main.js": "/podcast-project/static/js/runtime-main.634b562a.js",
+    "runtime-main.js.map": "/podcast-project/static/js/runtime-main.634b562a.js.map",
+    "static/js/2.5dfe2bb2.chunk.js": "/podcast-project/static/js/2.5dfe2bb2.chunk.js",
+    "static/js/2.5dfe2bb2.chunk.js.map": "/podcast-project/static/js/2.5dfe2bb2.chunk.js.map",
+    "index.html": "/podcast-project/index.html",
+    "precache-manifest.3c8201062a3e46bd483a72b1a77f6525.js": "/podcast-project/precache-manifest.3c8201062a3e46bd483a72b1a77f6525.js",
+    "service-worker.js": "/podcast-project/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/podcast-project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5dfe2bb2.chunk.js.LICENSE.txt": "/podcast-project/static/js/2.5dfe2bb2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/podcast-project/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.634b562a.js",
+    "static/js/2.5dfe2bb2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.70f11df1.chunk.js"
+  ]
+}
