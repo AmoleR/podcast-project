@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/podcast-project/static/css/main.8c2e93e4.chunk.css",
+    "main.css": "/podcast-project/static/css/main.0442bea4.chunk.css",
     "main.js": "/podcast-project/static/js/main.0f378d62.chunk.js",
     "main.js.map": "/podcast-project/static/js/main.0f378d62.chunk.js.map",
     "runtime-main.js": "/podcast-project/static/js/runtime-main.634b562a.js",
@@ -8,15 +8,15 @@
     "static/js/2.5d976ea6.chunk.js": "/podcast-project/static/js/2.5d976ea6.chunk.js",
     "static/js/2.5d976ea6.chunk.js.map": "/podcast-project/static/js/2.5d976ea6.chunk.js.map",
     "index.html": "/podcast-project/index.html",
-    "precache-manifest.053d90f4cd3ba425fadf54cf54931f26.js": "/podcast-project/precache-manifest.053d90f4cd3ba425fadf54cf54931f26.js",
+    "precache-manifest.b2e2902151cad92e7d9d4efa1dff986d.js": "/podcast-project/precache-manifest.b2e2902151cad92e7d9d4efa1dff986d.js",
     "service-worker.js": "/podcast-project/service-worker.js",
-    "static/css/main.8c2e93e4.chunk.css.map": "/podcast-project/static/css/main.8c2e93e4.chunk.css.map",
+    "static/css/main.0442bea4.chunk.css.map": "/podcast-project/static/css/main.0442bea4.chunk.css.map",
     "static/js/2.5d976ea6.chunk.js.LICENSE.txt": "/podcast-project/static/js/2.5d976ea6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.634b562a.js",
     "static/js/2.5d976ea6.chunk.js",
-    "static/css/main.8c2e93e4.chunk.css",
+    "static/css/main.0442bea4.chunk.css",
     "static/js/main.0f378d62.chunk.js"
   ]
 }
